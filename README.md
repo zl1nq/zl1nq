@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zl1nq&style=for-the-badge&color=blueviolet&label=%E8%AE%BF%E5%AE%A2" alt="visitors"/>
   <img src="https://img.shields.io/github/followers/zl1nq?style=for-the-badge&color=blueviolet&label=FOLLOWERS" alt="followers"/>
-  <img src="https://img.shields.io/github/stars/zl1nq?affiliations=OWNER&style=for-the-badge&color=fuchsia&label=STARS" alt="stars"/>
+  <img src="https://img.shields.io/github/stars/zl1nq?affiliations=OWNER&style=for-the-badge&color=fuchsia&label=STARS&v=2" alt="stars"/>
 </div>
 
 ## 🧭 关于我
@@ -76,21 +76,18 @@ while alive:
 
 ## 📊 GitHub 战绩
 
+<!-- ✏️ 说明：github-readme-stats / activity-graph / profile-trophy 的公共部署因限流已失效（503/402），
+     故改用更稳定的 github-profile-summary-cards（github_dark 主题与本页配色一致） -->
+
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zl1nq&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&include_all_commits=true&count_private=true" alt="github stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zl1nq&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="top languages"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zl1nq&theme=github_dark" alt="profile details"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zl1nq&theme=github_dark" alt="stats"/>
+  <br/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zl1nq&theme=github_dark" alt="repos per language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zl1nq&theme=github_dark" alt="most commit language"/>
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zl1nq&theme=github_dark" alt="productive time"/>
   <br/>
   <img height="170" src="https://streak-stats.demolab.com?user=zl1nq&theme=radical&hide_border=true&background=0D1117" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zl1nq&bg_color=0D1117&color=E879F9&line=8A2BE2&point=00E5FF&area=true&area_color=8A2BE2&hide_border=true" alt="activity graph"/>
-</div>
-
-## 🏆 成就墙
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=zl1nq&theme=radical&no-frame=true&row=1&column=7&margin-w=6" alt="trophies"/>
 </div>
 
 ## 🐍 贡献贪吃蛇
